@@ -3,10 +3,10 @@
 # 📃 Description
   
 (Eng)</br>
-  A simple calculator but elegant :D 
+  A simple calculator but elegant 😎
   
 (Pt-br)</br>
-  Uma calculadora simples mas elegante 
+  Uma calculadora simples mas elegante 😎
 
  ### ⚙ Layout e Functions
 
